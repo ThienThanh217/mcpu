@@ -54,4 +54,5 @@
 
 
 4- LỆNH KHAI THÁC COIN XMR:
-Vui long tham khảo các file đào coin trong phần tệp thư mục
+
+    Vui lòng tham khảo các file đào coin trong phần tệp thư mục
