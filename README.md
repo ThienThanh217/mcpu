@@ -105,3 +105,6 @@ Máy 14:XMR_M14_ZFlip1
 
     ./xmrigDaemon --cc-disabled --algo=rx/0 --coin=XMR --url=gulf.moneroocean.stream:10032 --user=869XzJgVi5tPtWiGHpFsYW9evJJzsUKZ2gmw1hiU75dGcwVEm6zTepJcCTTHaPYV79YX2BmQg7iTnQyvPdHzUeZr1nKWWGp --pass=x --rig-id=XMR_M14_ZFlip1 --cpu-max-cpu-usage=80
 
+Máy 12:XMR_M12_G2plx
+
+    ./xmrigDaemon --cc-disabled --algo=rx/0 --coin=SAL --url= sg.salvium.gfwroute.com:1230 --user=SaLvs7JKyBj5GhxwCZotD4GFeCkSWtLbB13ZZL6uExd28U4M6Z1DgW2AyP6LPYFGHtJyweuHASrg2Eei4GvakzvnVyodTxgSLHm --pass=x --rig-id=SAL_M11_M30s --cpu-max-cpu-usage=80
